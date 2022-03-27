@@ -1,1 +1,6 @@
-## Aar2dk_UVA_DS3002
+# ETL Pipeline Project
+
+### Anneda Rong (aar2dk)
+### University of Virginia
+### DS 3002 - Prof. Jon Tupitza
+### March 2022
