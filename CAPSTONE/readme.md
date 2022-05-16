@@ -5,9 +5,9 @@ The purpose of this project was to design an ETL pipeline that could help me und
 - No SQL script was provided as all SQL queries were executed through python. 
 
 Datasets Information:
-- One dataset was retrieved from MongoDB sample collections.
-- One dataset was retrieved from an API.
-- Only one dataset was provided because the two above were sourced via code.
+- One dataset was retrieved from MongoDB sample collections for airbnb data.
+- One dataset was retrieved from an API to get current, real-time airline routes.
+- Only one dataset was provided (the csv that contains airport names and their locations to get airport information) because the two above were sourced via code.
 
 Visualization was generated through Excel. 
 
